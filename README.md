@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpsolorzanom
 - 👀 I’m interested in dev technologies
-- 🌱 I’m currently learning NodeJS and more abour JavaScript
+- 🌱 I’m currently updating my knowledge en Java and JavaEE
 - 💞️ I’m looking to collaborate on projects of startups
 - 📫 How to reach me? in my mail jpsolorzanom@gmail.com
 
